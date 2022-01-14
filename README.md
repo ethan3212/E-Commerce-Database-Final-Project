@@ -1,8 +1,5 @@
-# E-Commerce-Database-Final-Project
+My final project in coll was a basic database for an E-Commerce wwebsite.
 
-This is the final project I worked on for a database class I took in college. It is a basic database for an E-Commerce website.
+I determined the information that was essential, divided and categorized them into tables, normalized them, and wrote the SQL script.
 
-I determined what information was needed, how many tables needed to be created, normalized them, and then wrote the SQL code to create it.
-
-The attached SQL script is intended to be run as a single batch. When run it will: create the database "ManisTermProjectDB", create and populate the tables, and create and execute
-  five queries and views.
+This SQL script is intended to be ran as a single batch. When run, it will: create the database, "ManisTermProjectDB", generate the tables, populate them with data, and then execute a series of five queries and one view.
